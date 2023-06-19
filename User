@@ -1,0 +1,44 @@
+ <userSettings>
+    <SeleniumTest.Properties.Settings>
+      <setting name="ChromeDirectory" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="ExcelDirectory" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="O2 Internet " serializeAs="String">
+        <value />
+      </setting>
+      <setting name="CurrentProfile" serializeAs="String">
+        <value>0</value>
+      </setting>
+      <setting name="UserDataDirectory" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="MaximizedCheckbox" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="RenewIpCheckBox" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="SavesSettingCheckBox" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="SetBrowserToLeftCheckBox" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="SetWindowSizeCheckbox" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="SyncCheckBox" serializeAs="String">
+        <value>False</value>
+      </setting>
+      <setting name="Height" serializeAs="String">
+        <value />
+      </setting>
+      <setting name="Width" serializeAs="String">
+        <value />
+      </setting>
+    </SeleniumTest.Properties.Settings>
+  </userSettings>
+</configuration>
